@@ -1,6 +1,6 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 15
+# Visual Studio 2015
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PriestGame", "PriestGame.csproj", "{3EC6B33F-68E6-3310-8ED0-A1C91F2848A2}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PriestGame.Editor", "PriestGame.Editor.csproj", "{1256C22A-1217-EE83-8995-C40892133BF5}"
